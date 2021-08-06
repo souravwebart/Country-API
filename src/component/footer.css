@@ -1,0 +1,16 @@
+.buttomfooter{
+    background-color: rgb(19, 18, 18);
+}
+.footertxt{
+    color: white;
+    font-size: 1.2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.text-dark{
+    color: rgb(255 196 107)!important;
+    font-size: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-decoration: none;
+}
